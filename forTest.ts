@@ -1,5 +1,5 @@
 function checkNumbers(){
-const numbers: number[] = [1, 4, 44, 64, 55, 24, 32, 55, 19, 17, 74, 22, 23];
+const numbers: number[] = [];
 var evenNumbers = [];
 var oddNumbers = [];
 
